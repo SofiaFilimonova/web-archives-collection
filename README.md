@@ -58,13 +58,13 @@
 ### Скриншоты анализа
 
 #### thecatapi.com
-![thecatapi](screenshots/thecatapi_summary.png)
+![thecatapi](screenshots/catpai.com.png)
 
 #### icanhas.cheezburger.com
-![icanhas](screenshots/icanhas_summary.png)
+![icanhas](screenshots/icanhas.cheezburger.com.png)
 
 #### catster.com
-![catster](screenshots/catster_summary.png)
+![catster](screenshots/catster.com.png)
 
 
 ## Особенности сайтов
